@@ -4,7 +4,6 @@
 //> using lib co.fs2::fs2-io::3.9.3
 //> using lib "com.softwaremill.sttp.client4::circe::4.0.0-M8"
 //> using lib "com.softwaremill.sttp.client4::cats::4.0.0-M8"
-//> using lib "io.chrisdavenport::rediculous::0.5.1"
 //> using lib "io.circe::circe-core::0.14.6"
 //> using lib "io.circe::circe-parser::0.14.6"
 //> using lib "org.legogroup::woof-core::0.7.0"
